@@ -1,0 +1,11 @@
+{
+  "main-flows": "Main Flows",
+  "basic-info": "Basic Info",
+  "table-config": "Table Configuration",
+  "field-config": "Field Configuration",
+  "action-config": "Action Configuration",
+  "nav-config": "Nav Configuration",
+  "match-pattern": "Match Patterns",
+  "css-selector": "CSS Selector",
+  "advanced-finder": "Advanced Finder"
+}
