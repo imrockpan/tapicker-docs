@@ -8,7 +8,7 @@
     "build": "next build"
   },
   "author": "ibyetool",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "@reach/skip-nav": "^0.16.0",
     "focus-visible": "^5.1.0",
