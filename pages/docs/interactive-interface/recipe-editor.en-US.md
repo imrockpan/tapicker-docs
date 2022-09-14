@@ -1,22 +1,26 @@
+import Callout from "nextra-theme-docs/callout";
 import Image from "@/components/Image";
 
 # Recipe Editor
 
-Open the recipe editor, if it is editing, it will automatically fill in the information of the recipe to be edited, otherwise it will create a new recipe.
+The recipe editor opens on the right side of the current page when you need it. When you create a recipe, you are asked to select a template before editing it.
 
-<Image src="/screenshots/recipe-editor-mark.png" width="80%" height="auto" alt="recipe-editor-mark" center />
+<Image src="/screenshots/recipe-editor.png"  alt="recipe-editor-mark"/>
 
-Description of the marked points:
+<Callout emoji="⚠️">
+You must open a page before creating or editing a recipe.
+</Callout>
 
-1. **Enlarge the window** - If you think the window is too small, you can click here to enlarge the window
-2. **Shrink the window** - Of course, you can also click here to shrink the window while it is zoomed in
-3. **Switch position** - If the editor blocks the element you want to select, you can click here to switch the position
-4. **Help Document** - When you encounter difficulties, you can click here to view the help document
-5. **Close Window** - When you do not need to edit or finish editing, you can click here to close the window
-6. **Basic Information** - Edit the basic information of the recipe and save it successfully before proceeding to the next step
-7. **Tables** - Configure table information, identifying the area to extract data from
-8. **Fields** - configure the fields in the table and how to extract data
-9. **Actions** - configure a set of actions to facilitate data extraction
-10. **navigation** - configure a set of actions that can navigate to the next page
-11. **Reset Form** - resets the current form
-12. **Create/Save** - Create or save a recipe
+Marker Description:
+
+1. **Switch Size** - Click here to expand or shrink the editor
+2. **Switch Position** - Click here to switch the position of the editor
+3. **Recipe Name** - Click here to set the recipe name, visibility, etc.
+4. **Help document** - Click here to open the help document
+5. **Close Window** - Clicking here will close the editor (if the recipe is not saved, it will be lost)
+6. **Cancel** - equivalent to "close window"
+7. **Save** - Create or update a recipe
+
+<Callout emoji="⚠️">
+After the recipe is changed, it will not be automatically saved. When you need to save it, you should manually click the "Save" button.
+</Callout>
