@@ -5,37 +5,31 @@ import Image from "@/components/Image";
 
 ## 如何安装？
 
-DataPicker 官方插件已通过谷歌和微软的审核，您可以直接在他们的应用商店一键安装：
+DataPicker 已经上架到谷歌和微软应用商店并通过审核，安全可靠，您可以直接在应用商店里一键安装：
 
-- 在 Chrome 浏览器安装: [Chrome Web Store](https://chrome.google.com/webstore/detail/datapicker-powerful-web-d/baglkjackdnhdpjjcjpkhmemggiklhid)
-- 在 Edge 浏览器安装: [Edge Web Store](https://microsoftedge.microsoft.com/addons/detail/datapicker-powerful-web/ejmegoaahjcedhklldmdmmgbjoioifje)
+- 在 Chrome 浏览器安装: [Chrome Webstore](https://chrome.google.com/webstore/detail/datapicker-powerful-web-d/baglkjackdnhdpjjcjpkhmemggiklhid)
+- 在 Edge 浏览器安装: [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/datapicker-powerful-web/ejmegoaahjcedhklldmdmmgbjoioifje)
 
 <Callout emoji="💡">
-访问 Chrome Web Store 需要能访问外网，若您没有梯子，推荐到这里来安装：[Crx搜搜](https://www.crxsoso.com/webstore/detail/baglkjackdnhdpjjcjpkhmemggiklhid)
+Chrome Webstore 需要能访问外网，若您没有梯子，推荐到这里来安装：[Crx搜搜](https://www.crxsoso.com/webstore/detail/baglkjackdnhdpjjcjpkhmemggiklhid)
 </Callout>
 
-通常不同应用商店的审核时间不一致，会导致各个浏览器上的发布版本有不同。Chrome 上的版本审核速度最快，建议您安装最新版本使用。
+不同应用商店的审核时间不一致，会导致各个浏览器上的发布版本有所不同。通常 Chrome 上的版本审核速度比较快，建议您安装最新版本使用。
 
 ## 如何注册？
 
-有两个入口能让您顺利找到注册页面：
-
-### 1.通过插件的注册页面
-
 如果您已经成功安装了插件，可以通过以下步骤前往官网注册：
 
-1. 点击 DataPicker 插件图标
-2. 点击注册按钮
+1. 点击「DataPicker」图标
+2. 点击「注册」按钮
 
-<Image src="/screenshots/register.png" alt="register" />
+<Image src="/screenshots/register.png" alt="register" width="50%" height="50%"/>
 
 <Callout emoji="💡">
 如果您找不到 DataPicker 图标，请点击浏览器上的 `扩展程序` 的图标，然后把 DataPicker 钉住即可。
 </Callout>
 
-### 2.通过官网直接注册
-
-访问 [注册 | DataPicker](https://datapicker.byetool.com/zh-CN/signup) 进行注册：
+打开 [注册 | DataPicker](https://datapicker.byetool.com/zh-CN/signup) 页面后，输入信息就可以注册了。当然，您也可以使用 Google 或 Github 账号，快捷注册！
 
 <Image src="/screenshots/signup.png" alt="signup" />
 

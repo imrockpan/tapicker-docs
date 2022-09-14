@@ -5,33 +5,27 @@ import Image from "@/components/Image";
 
 ## How to install?
 
-The official DataPicker plugin has been reviewed by Google and Microsoft, and you can install it directly from their app store with one click:
+DatePicker has been released to the Google and Microsoft app stores and has passed the review. It is safe and reliable. You can install it directly in the app store with one click:
 
-- Install in Chrome browser: [Chrome Web Store](https://chrome.google.com/webstore/detail/datapicker-powerful-web-d/baglkjackdnhdpjjcjpkhmemggiklhid)
-- Install in Edge browser: [Edge Web Store](https://microsoftedge.microsoft.com/addons/detail/datapicker-powerful-web/ejmegoaahjcedhklldmdmmgbjoioifje)
+- Install in Chrome browser: [Chrome Webstore](https://chrome.google.com/webstore/detail/datapicker-powerful-web-d/baglkjackdnhdpjjcjpkhmemggiklhid)
+- Install in Edge browser: [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/datapicker-powerful-web/ejmegoaahjcedhklldmdmmgbjoioifje)
 
-Usually, the review time of different app stores is inconsistent, which will lead to different release versions on each browser. Version review is the fastest on Chrome, and it is recommended that you install the latest version.
+Inconsistent review times across app stores can result in different releases across browsers. Usually the version review speed on Chrome is faster, it is recommended that you install the latest version.
 
 ## How to register?
 
-There are two portals that allow you to successfully find the registration page:
+If you have successfully installed the extension, you can go to the official website to register by following the steps below:
 
-### 1.Through the registration page of the plugin
+1. Click the "DataPicker" icon
+2. Click the "Sign Up" button
 
-If you have successfully installed the plugin, you can go to the official website to register by following the steps below:
-
-1. Click on the DataPicker plugin icon
-2. Click the register button
-
-<Image src="/screenshots/register.png" alt="register" />
+<Image src="/screenshots/register.png" alt="register" width="50%" height="50%" />
 
 <Callout emoji="💡">
-If you can't find the DataPicker icon, click the `Extensions` icon on your browser and pin the DataPicker plugin.
+If you can't find the DataPicker icon, click the "Extensions" icon on your browser and pin the DataPicker extension.
 </Callout>
 
-### 2.Register directly through the official website
-
-Visit [Signup | DataPicker](https://datapicker.byetool.com/signup) to sign up:
+Open the [Sign Up | DataPicker](https://datapicker.byetool.com/signup) page and enter the information to register. Of course, you can also use your Google or Github account to register quickly!
 
 <Image src="/screenshots/signup.png" alt="signup" />
 
