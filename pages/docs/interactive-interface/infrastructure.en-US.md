@@ -2,10 +2,9 @@ import Image from "@/components/Image";
 
 # Infrastructure
 
-DatePicker mainly consists of the following pages:
+DatePicker mainly consists of the following two parts:
 
-- **Popup** - Used to quickly grab data
-- **Recipe Editor** - Used to create or edit recipes
-- **Dashboard** - Used to manage recipes, paginate crawling, configure webhooks, view data and download data, etc.
+- **Popup** - for scraping data, managing recipes, setting up webhooks, viewing & exporting data, etc.
+- **Recipe Editor** - used to create or edit recipes
 
 <Image src="/screenshots/infrastructure.png" alt="infrastructure" />
