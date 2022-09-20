@@ -30,7 +30,7 @@ import IconFilter from "@/components/icons/IconFilter";
 
 ## 3.完成抓取
 
-等到提示数据抓取成功，您就可以[去查看数据](/zh-CN/docs/getting-started/view-and-download-data)了。
+等到提示数据抓取成功，您就可以[去查看数据](/zh-CN/docs/getting-started/view-and-export-data)了。
 
 <Image src="/screenshots/crawling-success.png" alt="crawling-success" />
 

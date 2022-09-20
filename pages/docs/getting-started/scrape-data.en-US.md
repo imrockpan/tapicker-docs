@@ -30,7 +30,7 @@ If no recipe matches, you can create your own recipe for this page. If you don't
 
 ## 3.Complete Scraping
 
-Wait until the prompt data scraping is successful, you can [go to view the data](/docs/getting-started/view-and-download-data).
+Wait until the prompt data scraping is successful, you can [go to view the data](/docs/getting-started/view-and-export-data).
 
 <Image src="/screenshots/crawling-success.png" alt="crawling-success" />
 
