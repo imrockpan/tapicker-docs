@@ -2,7 +2,7 @@
   "open-editor": "Open Editor",
   "choose-template": "Choose Template",
   "basic-operation": "Basic Operation",
-  "node-type": "节点类型",
+  "node-type": "Node Type",
   "edit-node": "编辑节点",
   "node-flow": "编辑流程图"
 }
