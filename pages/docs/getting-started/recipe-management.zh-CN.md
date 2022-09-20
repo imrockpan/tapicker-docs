@@ -7,7 +7,7 @@ import Image from "@/components/Image";
 
 您可以在管理面板的 `My Recipes` 页面管理自己创建的配方，包括 `编辑`、`删除` 等常规操作。
 
-<Image src="/screenshots/my-recipes.png" alt="my-recipes" />
+<Image src="/screenshots/my-recipes.png" alt="my-recipes" width="80%" height="auto" />
 
 <Callout emoji="💡">
 如果配方已经公开分享，建议不要轻易删除它。
@@ -15,6 +15,6 @@ import Image from "@/components/Image";
 
 ## 2.钉住的配方
 
-您可以在管理面板的 `Pinned Recipes` 页面管理自己钉住的配方，包括 `编辑` 或 `克隆`、`取消钉住` 等常规操作。
+您可以在管理面板的 `Pinned Recipes` 页面管理自己钉住的配方，包括 `编辑` 或 `复制`、`取消钉住` 等常规操作。
 
-<Image src="/screenshots/pinned-recipes.png" alt="pinned-recipes" />
+<Image src="/screenshots/pinned-recipes.png" alt="pinned-recipes" width="80%" height="auto" />
