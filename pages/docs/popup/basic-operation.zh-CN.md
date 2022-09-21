@@ -1,6 +1,6 @@
 import Image from "@/components/Image";
 
-# 弹出窗口（Popup）
+# 基础操作
 
 Popup 相当于一个控制面板，日常的操作都集成在里边，进一步简化交互。
 

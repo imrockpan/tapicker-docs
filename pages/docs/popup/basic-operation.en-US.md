@@ -1,6 +1,6 @@
 import Image from "@/components/Image";
 
-# Popup
+# Operation
 
 Popup is equivalent to a Dashboard that integrates daily operations to further simplify interactions.
 

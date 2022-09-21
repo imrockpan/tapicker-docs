@@ -2,7 +2,8 @@
   "introduction": "What is DataPicker?",
   "getting-started": "Getting Started",
   "basic-concepts": "Basic Concepts",
-  "interactive-interface": "Interactive Interface",
+  "infrastructure": "Infrastructure",
+  "popup": "Popup",
   "editor": "Editor",
   "recipe-development": "Recipe Development Guide"
 }
