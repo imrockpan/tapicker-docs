@@ -5,7 +5,7 @@ import Image from "@/components/Image";
 
 在您需要时，配方编辑器会在当前页面的右侧打开。创建配方时，会让您先选择一个模板，再开始编辑。
 
-<Image src="/screenshots/recipe-editor.png"  alt="recipe-editor-mark"/>
+<Image src="/screenshots/recipe-editor.png" alt="recipe-editor-mark"/>
 
 <Callout emoji="⚠️">
 您必须打开一个页面，才能创建或编辑配方。

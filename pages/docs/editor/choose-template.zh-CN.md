@@ -10,4 +10,4 @@ import Image from "@/components/Image";
 - 「组合页」表示提取列表数据后，继续提取详情页。例如：从文章列表页提取链接，再依次提取文章详情。
 - 「自定义」表示由您自由发挥。
 
-<Image src="/screenshots/choose-template.png"  alt="choose-template" />
+<Image src="/screenshots/choose-template.png" alt="choose-template" />

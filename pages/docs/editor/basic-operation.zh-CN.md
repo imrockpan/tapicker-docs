@@ -13,7 +13,7 @@ import Image from "@/components/Image";
 6. **取消** - 等同于“关闭窗口”
 7. **保存** - 创建或更新配方
 
-<Image src="/screenshots/basic-operation.png"  alt="basic-operation" />
+<Image src="/screenshots/basic-operation.png" alt="basic-operation" />
 
 <Callout emoji="💡">
 小技巧：开启快键键后可支持键盘操作。

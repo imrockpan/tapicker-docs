@@ -5,7 +5,7 @@ import Image from "@/components/Image";
 
 您可以点击 `创建配方` 按钮打开编辑器，编辑器默认会在当前页面的右侧打开。
 
-<Image src="/screenshots/open-editor.gif"  alt="open-editor" />
+<Image src="/screenshots/open-editor.gif" alt="open-editor" />
 
 <Callout emoji="💡">
 注意：  
