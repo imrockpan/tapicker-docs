@@ -86,7 +86,7 @@ The row selector is necessary. When extracting the details page data, the entire
 
 parameter settings:
 
-- "Target Element" sets the CSS selector of the target element of the list, which can be set quickly through [Advanced Finder@todo](/zh-CN/todo)
+- "Target Element" sets the CSS selector of the target element of the list, which can be set quickly through [Advanced Finder](/docs/editor/finder)
 - "Filter" can filter out unwanted rows, such as ads.
 - When "End task if no line is found" is unchecked, it can be used to extract optional data.
 
@@ -102,7 +102,7 @@ parameter settings:
   - extract from self - Indicates that data is to be extracted from the selected row itself
   - Extract from loop - Indicates that data is to be referenced from loop information, eg: index number, current value, etc.
   - Extracted from the system - Some basic fields can be referenced, such as: page link, page title, current time, etc.
-- "Target Element" sets the CSS selector of the column target element, which can be set quickly through [Advanced Finder@todo](/zh-CN/todo).
+- "Target Element" sets the CSS selector of the column target element, which can be set quickly through [Advanced Finder](/docs/editor/finder).
 - "Extract Attribute" is usually recommended automatically after you select the target element.
 - "Default value" When no data can be extracted, use the default value.
 

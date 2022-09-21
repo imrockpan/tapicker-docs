@@ -4,7 +4,7 @@ import IconFinder from "@/components/icons/IconFinder";
 
 # 查找器（Finder）
 
-Finder 是用于辅助您生成 [CSS 选择器](/zh-CN/docs/reference/css-selector) 的一个小工具。 在需要时，我们只需点击一下 <IconFinder /> 图标就能唤出它。
+Finder 是用于辅助您生成 [CSS 选择器](/zh-CN/docs/reference/css-selector) 的一个小工具。 在需要时我们只需点击一下 <IconFinder /> 图标就能唤出它。
 
 <Image src="/screenshots/open-finder.gif" alt="open-finder" />
 
@@ -16,7 +16,7 @@ Finder 是用于辅助您生成 [CSS 选择器](/zh-CN/docs/reference/css-select
 
 ### 生成模式
 
-Finder 提供了两种查找模式：`列表模式` 和 `唯一模式`。
+Finder 提供了两种生成模式：`列表模式` 和 `唯一模式`。
 
 我们以 [虾皮商品列表页](https://shopee.sg/search?keyword=dress) 为例来对比一下这两种模式有什么区别？
 
@@ -46,7 +46,7 @@ Finder 提供了两种查找模式：`列表模式` 和 `唯一模式`。
 
 ### 禁用选择器
 
-某些选择器特定的，或者是不持久的，它们可能会随时失效，所以我们需要选择性的禁用它们。
+某些选择器特定的，或者是不持久的，它们可能会随时失效，所以我们根据需要，选择性的禁用它们。
 
 - **禁用 ID 选择器（Disable ID）** - 例如：`#foo`、`div#foo`
 - **禁用类选择器（Disable Class）** - 例如：`.foo`、`div.foo`
