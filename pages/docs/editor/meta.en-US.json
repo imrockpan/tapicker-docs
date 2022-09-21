@@ -3,6 +3,6 @@
   "choose-template": "Choose Template",
   "basic-operation": "Basic Operation",
   "node-type": "Node Type",
-  "edit-node": "编辑节点",
-  "node-flow": "编辑流程图"
+  "flow-chart": "Flow Chart",
+  "edit-node": "编辑节点"
 }
