@@ -5,7 +5,7 @@ import Image from "@/components/Image";
 There are two ways to open Popup:
 
 1. Click on the DataPicker icon
-2. Shortcut key: Alt + P
+2. Shortcut key: Alt + P (`Option/⌥` + `P` on macOS)
 
 <Image src="/screenshots/open-popup.gif" alt="open-popup" />
 

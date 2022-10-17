@@ -1,3 +1,4 @@
+import Callout from "nextra-theme-docs/callout";
 import Image from "@/components/Image";
 
 # Basic Operation
@@ -17,3 +18,10 @@ Marker Description:
 7. **About** - DataPicker Version Information & Contact
 8. **User** - Displays user information
 9. **Settings** - You can set your preferences here
+
+<Callout emoji="⚠️">
+Can't create recipe?  
+☞ If it is the first installation, you need to refresh the current page  
+☞ If it is a blank page, please open a website before creating a recipe  
+☞ The plan has expired, the free version does not support creating recipes
+</Callout>

@@ -25,7 +25,7 @@ import IconFilter from "@/components/icons/IconFilter";
 
 <Callout emoji="💡">
 可以点击 <IconFilter /> 图标，快速找到当前站点可用的配方。  
-如果没有匹配到配方，您可以针对该页面自行创建配方。如果您还不会开发配方，请参考 [配方开发指南](/zh-CN/docs/recipe-development/main-flows)。
+如果没有匹配到配方，您可以针对该页面自行创建配方。如果您还不会开发配方，请参考 [@todo 配方开发指南](/zh-CN/docs/recipe-development/main-flows)。
 </Callout>
 
 ## 3.完成抓取

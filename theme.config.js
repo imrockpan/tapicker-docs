@@ -119,21 +119,25 @@ export default {
         <meta name="og:image" content={ogImage} />
         <meta name="apple-mobile-web-app-title" content="DataPicker" />
         {/* Global site tag (gtag.js) - Google Analytics */}
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-RXVQGMXRNH"
-        ></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer = window.dataLayer || [];
+        {process.env.NODE_ENV === "production" ? (
+          <>
+            <script
+              async
+              src="https://www.googletagmanager.com/gtag/js?id=G-RXVQGMXRNH"
+            ></script>
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
 gtag('config', 'G-RXVQGMXRNH', {'debug_mode': ${
-              process.env.NODE_ENV === "development"
-            }});`,
-          }}
-        ></script>
+                  process.env.NODE_ENV === "development"
+                }});`,
+              }}
+            ></script>
+          </>
+        ) : null}
       </>
     );
   },
