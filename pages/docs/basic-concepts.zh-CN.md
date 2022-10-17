@@ -7,7 +7,7 @@ import Image from "@/components/Image";
 
 配方是 DataPicker 用于提取数据的一组动作指令集合。
 
-当您访问到某个网站时，DataPicker 会自动帮您匹配出可用的配方。如果没有匹配到，则意味着您只能自己创建配方了！如果您在创建配方时，遇到困难，您可以前往 [@todo 配方开发指南](/zh-CN/docs/recipe-development/main-flows) 学习，或者联系官方（support@byetool.com）免费协助创建。
+当您访问到某个网站时，DataPicker 会自动帮您匹配出可用的配方。如果没有匹配到，则意味着您只能自己创建配方了！如果您在创建配方时，遇到困难，您可以前往 [视频教程](/zh-CN/docs/video-tutorial) 学习，或者联系官方（support@byetool.com）免费协助创建。
 
 <Image src="/screenshots/recipe-popup.png" alt="recipe-popup" />
 

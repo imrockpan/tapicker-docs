@@ -25,7 +25,7 @@ Then, we only need **two clicks** to scrape the data:
 
 <Callout emoji="💡">
 You can click the <IconFilter /> icon to quickly find the recipes available on the current site.  
-If no recipe matches, you can create your own recipe for this page. If you don't know how to develop recipes yet, please refer to [Recipe Development Guide](/docs/recipe-development/main-flows).
+If no recipe matches, you can create your own recipe for this page. If you don't know how to develop recipes yet, please refer to [Video Tutorial](/docs/video-tutorial).
 </Callout>
 
 ## 3.Complete Scraping
