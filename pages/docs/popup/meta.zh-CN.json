@@ -2,5 +2,6 @@
   "open-popup": "打开窗口",
   "basic-operation": "基础操作",
   "recipes-panel": "配方面板",
-  "webhooks-panel": "挂钩面板"
+  "webhooks-panel": "挂钩面板",
+  "data-panel": "数据面板"
 }
