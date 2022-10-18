@@ -1,5 +1,6 @@
 {
   "open-popup": "Open Popup",
   "basic-operation": "Basic Operation",
-  "recipes-panel": "Recipes Panel"
+  "recipes-panel": "Recipes Panel",
+  "webhooks-panel": "Webhooks Panel"
 }
