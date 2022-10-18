@@ -31,3 +31,17 @@ Domain names that appear as `*` indicate that the recipe will work on any websit
 You can also sort the recipes to your liking. For example: put recipes created earlier first.
 
 <Image src="https://s2.loli.net/2022/10/17/5TMvoEz8YuRWesL.gif" alt="recipes-order" width="50%" height="auto" />
+
+### Pin Recipe
+
+If you find a recipe useful, you can pin it so you can find it faster.
+
+<Image src="https://s2.loli.net/2022/10/18/ujMsVZeUENmcntD.gif" alt="recipes-pin" width="50%" height="auto" />
+
+### Copy Recipe
+
+The best way to learn how to create a recipe is to copy a working recipe and then modify it.
+
+After the recipe is copied successfully, it will appear in "My Recipes".
+
+<Image src="https://s2.loli.net/2022/10/18/YyQpRtuA1SO8n6d.gif" alt="recipes-copy" width="50%" height="auto" />

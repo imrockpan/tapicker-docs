@@ -31,3 +31,17 @@ import Image from "@/components/Image";
 您还可以根据自己的喜好，对配方进行排序。例如：把创建较早的配方排在前面。
 
 <Image src="https://s2.loli.net/2022/10/17/5TMvoEz8YuRWesL.gif" alt="recipes-order" width="50%" height="auto" />
+
+### 钉住配方
+
+如果您觉得某个配方对你很有用，那么您可以钉住它，以便于能更快的找到它。
+
+<Image src="https://s2.loli.net/2022/10/18/ujMsVZeUENmcntD.gif" alt="recipes-pin" width="50%" height="auto" />
+
+### 复制配方
+
+学习如何创建配方，最好的方法就是复制一份可行的配方，然后修改它。
+
+配方复制成功后，会出现在「My Recipes」里。
+
+<Image src="https://s2.loli.net/2022/10/18/YyQpRtuA1SO8n6d.gif" alt="recipes-copy" width="50%" height="auto" />
