@@ -11,6 +11,8 @@ import Image from "@/components/Image";
   - 当前站点 - 表示该配方只能工作于当前站点
   - 任何站点 - 表示该配方能工作于任何站点
 - 「可见性」选择是否分享配方
+  - 私有的 - 仅自己可见
+  - 公开的 - 所有人可见
 
 <Image src="/screenshots/basic-info.gif" alt="basic-info" />
 

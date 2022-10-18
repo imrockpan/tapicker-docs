@@ -3,13 +3,13 @@ import Image from "@/components/Image";
 
 # Node Type
 
-Currently, we provide 13 nodes for you to freely combine to meet data scraping in various scenarios.
+Currently, we provide **17** nodes for you to freely combine to meet data scraping in various scenarios.
 
 <Image src="/screenshots/node-type.png" alt="node-type" />
 
 ### Open Page
 
-Open the start page where you want to scrape data, usually we put this node first.
+Open the start page where you want to scrape data, usually we put this node first. If a recipe does not contain this node, you may need to open the page before launching the recipe.
 
 <Image src="/screenshots/node-open-page.png" alt="node-open-page" />
 
@@ -21,6 +21,10 @@ parameter settings:
   - from loop input - variable, page links are automatically entered by the loop node.
 - "Page Link" needs to fill in the page link, you can fill in the current page link with one click of the button on the left.
 - "Timeout" means that if the page is not opened after more than 20 seconds, the task will end.
+
+<Callout emoji="💡">
+The "Open Page" node waits for the page to load by default, so you don't need to add a "Wait Moment" node after this node.
+</Callout>
 
 ### Enter Loop
 

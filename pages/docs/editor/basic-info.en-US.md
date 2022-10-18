@@ -11,6 +11,8 @@ We can set the basic information of the recipe here
   - Current Site - Indicates that the recipe can only work on the current site
   - Any Site - means the recipe will work on any site
 - "Visibility" to choose whether to share recipes
+  - Private - Visible only to self
+  - Public - Visible to all
 
 <Image src="/screenshots/basic-info.gif" alt="basic-info" />
 
