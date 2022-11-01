@@ -73,7 +73,7 @@ import Image from "@/components/Image";
 
 ### 提取数据
 
-这是一个非常重要的节点，它用于告知 DataPicker 如何从页面中提取数据？
+这是一个非常重要的节点，它用于告知 Tapicker 如何从页面中提取数据？
 
 <Image src="/screenshots/node-extract-data.png" alt="node-extract-data" />
 
@@ -149,7 +149,7 @@ import Image from "@/components/Image";
 
 参数设置：
 
-- 「目标元素」选定 form 表单内的任意元素，DataPicker 会自动的帮您提交表单。
+- 「目标元素」选定 form 表单内的任意元素，Tapicker 会自动的帮您提交表单。
 
 ### 键盘按下
 

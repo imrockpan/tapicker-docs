@@ -11,14 +11,14 @@ First, open the page you want to scrape data, for example: [Amazon.com: Knapsack
 <Image src="/screenshots/amazon-knapsack.png" alt="amazon-knapsack" />
 
 <Callout emoji="💡">
-You can open any page you want to scrape data, and then scrape the data through DataPicker.
+You can open any page you want to scrape data, and then scrape the data through Tapicker.
 </Callout>
 
 ## 2.Scrape Data
 
 Then, we only need **two clicks** to scrape the data:
 
-1. Click on the `DataPicker` icon and move your mouse over the `@official/amazon-knapsack` recipe
+1. Click on the `Tapicker` icon and move your mouse over the `@official/amazon-knapsack` recipe
 2. Click the `Crawl` button to scrape the data
 
 <Image src="/screenshots/crawling-amazon-knapsack.png" alt="crawling-amazon-knapsack" />

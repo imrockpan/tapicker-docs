@@ -1,10 +1,10 @@
 {
-  "name": "data-picker-docs",
+  "name": "tapicker-docs",
   "version": "1.0.0",
-  "description": "DataPicker's Documentation",
+  "description": "Tapicker's Documentation",
   "scripts": {
-    "dev": "next -p 3003",
-    "start": "next start -p 3003",
+    "dev": "next -p 3005",
+    "start": "next start -p 3005",
     "build": "next build"
   },
   "author": "ibyetool",

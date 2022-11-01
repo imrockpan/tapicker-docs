@@ -11,14 +11,14 @@ import IconFilter from "@/components/icons/IconFilter";
 <Image src="/screenshots/amazon-knapsack.png" alt="amazon-knapsack" />
 
 <Callout emoji="💡">
-您可以打开任何您想要抓取数据的页面，然后通过 DataPicker 来抓取数据。
+您可以打开任何您想要抓取数据的页面，然后通过 Tapicker 来抓取数据。
 </Callout>
 
 ## 2.抓取数据
 
 然后，我们仅需 **两次点击**，就能抓取数据了：
 
-1. 点击 `DataPicker` 图标，将鼠标移动到 `@official/amazon-knapsack` 配方上
+1. 点击 `Tapicker` 图标，将鼠标移动到 `@official/amazon-knapsack` 配方上
 2. 点击 `Crawl` 按钮，就可以抓取数据了
 
 <Image src="/screenshots/crawling-amazon-knapsack.png" alt="crawling-amazon-knapsack" />

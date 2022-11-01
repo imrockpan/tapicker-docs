@@ -1,9 +1,9 @@
-# DataPicker 是什么？
+# Tapicker 是什么？
 
-DataPicker 是一个专业的网络数据采集器，它可以从任何网页上提取或采集数据，然后导出数据为 Excel 或 JSON 文件。
+Tapicker 是一个专业的网络数据采集器，它可以从任何网页上提取或采集数据，然后导出数据为 Excel 或 JSON 文件。
 它非常的简单易用，对技术小白很友好，因为你不用写任何代码，只需几个点击即可采集数据。
 
-DataPicker 甚至可以模拟人的行为去访问目标网站。
+Tapicker 甚至可以模拟人的行为去访问目标网站。
 
 OMG~不敢相信，采集数据能如此简单！
 
@@ -26,11 +26,11 @@ OMG~不敢相信，采集数据能如此简单！
 ★ 支持 Webhook 设置（采集到数据后自动推送到给你）  
 ★ 支持将数据导出为 .json，.csv，.xls，xml 文件（不限次数，不限大小）
 
-**DataPicker 是什么？**
+**Tapicker 是什么？**
 
 一个网页数据采集器、提取器收集器、一个网络爬虫
 
-**DataPicker 可以抓取哪些网站？**
+**Tapicker 可以抓取哪些网站？**
 
 几乎任何网站，只要能在你浏览器打开的。
 
@@ -38,7 +38,7 @@ OMG~不敢相信，采集数据能如此简单！
 ☞ 电商网站：Amazon、JD、Taobao、Shopee、Lazada...  
 ☞ 视频网站：YouTube、Bilibili...
 
-**DataPicker 可以用来做什么？**
+**Tapicker 可以用来做什么？**
 
 ☞ 客户开发 —— 挖掘 & 收集潜在客户的电子邮件、电话号码、社交账号等联系方式  
 ☞ 电子商务 —— 产品数据提取、产品价格抓取、描述、URL 提取、图像抓取等  
@@ -50,9 +50,9 @@ OMG~不敢相信，采集数据能如此简单！
 ☞ 学术研究 —— 用于机器学习、商业战略研究提取数据  
 ☞ 更多有趣的...
 
-DataPicker 还很年轻，如果您发现任何问题，请及时给我们反馈哦~
+Tapicker 还很年轻，如果您发现任何问题，请及时给我们反馈哦~
 
-- Github: https://github.com/ibyetool/data-picker-bugs/issues
-- Email: support@byetool.com
+- Github: https://github.com/ibyetool/tapicker-bugs/issues
+- Email: support@tapicker.com
 - TG 群: https://t.me/+x8YG9CreBzZmYTZl
 - QQ 群: 690680164

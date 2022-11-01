@@ -15,7 +15,7 @@ Marker Description:
 4. **Recipes** - Here you can scrape data with recipes for free & manage your own recipes
 5. **Webhooks** - you can configure webhooks here
 6. **Data** - Here you can view, export or delete data
-7. **About** - DataPicker Version Information & Contact
+7. **About** - Tapicker Version Information & Contact
 8. **User** - Displays user information
 9. **Settings** - You can set your preferences here
 

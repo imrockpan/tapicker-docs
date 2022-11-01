@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "data-picker-docs",
+      name: "tapicker-docs",
       script: "npm",
       args: "start",
     },

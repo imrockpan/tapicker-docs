@@ -6,10 +6,10 @@ const FEEDBACK_LINK_WITH_TRANSLATIONS = {
 };
 
 export default {
-  projectLink: "https://github.com/ibyetool/data-picker-docs",
+  projectLink: "https://github.com/ibyetool/tapicker-docs",
   docsRepositoryBase:
-    "https://github.com/ibyetool/data-picker-docs/blob/main/pages",
-  titleSuffix: " | DataPicker",
+    "https://github.com/ibyetool/tapicker-docs/blob/main/pages",
+  titleSuffix: " | Tapicker",
   search: true,
   floatTOC: true,
   unstable_flexsearch: true,
@@ -106,18 +106,18 @@ export default {
           }
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@datapicker" />
+        <meta name="twitter:site" content="@tapicker" />
         <meta name="twitter:image" content={ogImage} />
         <meta
           name="og:title"
           content={
             title
-              ? title + "| DataPicker"
-              : "DataPicker - Powerful web data scraper"
+              ? title + "| Tapicker"
+              : "Tapicker - Powerful web data scraper"
           }
         />
         <meta name="og:image" content={ogImage} />
-        <meta name="apple-mobile-web-app-title" content="DataPicker" />
+        <meta name="apple-mobile-web-app-title" content="Tapicker" />
         {/* Global site tag (gtag.js) - Google Analytics */}
         {process.env.NODE_ENV === "production" ? (
           <>
@@ -149,7 +149,7 @@ gtag('config', 'G-RXVQGMXRNH', {'debug_mode': ${
         return "Edit this page on GitHub →";
     }
   },
-  footerText: `${new Date().getFullYear()} © DataPicker.`,
+  footerText: `${new Date().getFullYear()} © Tapicker.`,
   i18n: [
     { locale: "en-US", text: "English" },
     { locale: "zh-CN", text: "简体中文" },

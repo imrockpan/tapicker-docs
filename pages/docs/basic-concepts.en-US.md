@@ -5,9 +5,9 @@ import Image from "@/components/Image";
 
 ## What's Recipe?
 
-The recipe is a collection of action instructions that DataPicker uses to extract data.
+The recipe is a collection of action instructions that Tapicker uses to extract data.
 
-When you visit a website, DataPicker will automatically match you with available recipes. If it doesn't match, it means you have to create your own recipe! If you encounter difficulties when creating a recipe, you can go to [Video Tutorial](/docs/video-tutorial) to learn, or contact the official (support@byetool.com) for free assistance.
+When you visit a website, Tapicker will automatically match you with available recipes. If it doesn't match, it means you have to create your own recipe! If you encounter difficulties when creating a recipe, you can go to [Video Tutorial](/docs/video-tutorial) to learn, or contact the official (support@tapicker.com) for free assistance.
 
 <Image src="/screenshots/recipe-popup.png" width="80%" height="auto" alt="recipe-popup" center />
 

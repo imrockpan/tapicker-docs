@@ -73,7 +73,7 @@ Scrolling the page may be time-consuming. You can choose whether to disable the 
 
 ### Extract Data
 
-This is a very important node that tells DataPicker how to extract data from the page?
+This is a very important node that tells Tapicker how to extract data from the page?
 
 <Image src="/screenshots/node-extract-data.png" alt="node-extract-data" />
 
@@ -149,7 +149,7 @@ After entering the text, usually we need to submit the form.
 
 parameter settings:
 
-- "Target Element" selects any element in the form, and DataPicker will automatically submit the form for you.
+- "Target Element" selects any element in the form, and Tapicker will automatically submit the form for you.
 
 ### Key Press
 

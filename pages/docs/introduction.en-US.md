@@ -1,9 +1,9 @@
-# What is DataPicker?
+# What is Tapicker?
 
-DataPicker is a professional web data collector that can extract or collect data from any website, and then export the data as Excel or JSON files.
+Tapicker is a professional web data collector that can extract or collect data from any website, and then export the data as Excel or JSON files.
 It's very easy to use and friendly to novices, because you don't have to write any code, you can collect data with just a few clicks.
 
-DataPicker can even simulate human behavior to visit the target website.
+Tapicker can even simulate human behavior to visit the target website.
 
 OMG~ Can't believe how easy it is to collect data!
 
@@ -30,7 +30,7 @@ Sign up now for a 1-month free trial ✌️
 
 A web data collector, extractor, collector, a web crawler.
 
-**Which websites can DataPicker crawl?**
+**Which websites can Tapicker crawl?**
 
 Almost any website that can be opened in your browser
 
@@ -38,7 +38,7 @@ Almost any website that can be opened in your browser
 ☞ E-commerce websites: Amazon, JD, Taobao, Shopee, Lazada...  
 ☞ Video sites: YouTube, Bilibili...
 
-**What can DataPicker be used for?**
+**What can Tapicker be used for?**
 
 ☞ Customer Development - Mining & collecting potential customers' emails, phone numbers, social accounts and other contact information  
 ☞ E-commerce - product data extraction, product price capture, description, URL extraction, image capture, etc.  
@@ -50,9 +50,9 @@ Almost any website that can be opened in your browser
 ☞ Academic research - extract data for machine learning, business strategy research  
 ☞ More interesting...
 
-DataPicker is still very young, if you find any problems, please give us feedback in time ~
+Tapicker is still very young, if you find any problems, please give us feedback in time ~
 
-- Github: https://github.com/ibyetool/data-picker-bugs/issues
-- Email: support@byetool.com
+- Github: https://github.com/ibyetool/tapicker-bugs/issues
+- Email: support@tapicker.com
 - TG Group: https://t.me/+x8YG9CreBzZmYTZl
 - QQ Group: 690680164
