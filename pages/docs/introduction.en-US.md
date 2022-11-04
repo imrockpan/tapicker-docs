@@ -7,7 +7,7 @@ Tapicker can even simulate human behavior to visit the target website.
 
 OMG~ Can't believe how easy it is to collect data!
 
-🎉 New upgrade v2.0 🎉  
+🎉 New upgrade v3.0 🎉  
 Sign up now for a 1-month free trial ✌️
 
 **Key feature highlights:**
@@ -24,11 +24,11 @@ Sign up now for a 1-month free trial ✌️
 ★ Support private page data extraction (such as pages that require login to access)  
 ★ Support single-page application data extraction (pages developed by React, Vue, Angular, etc.)  
 ★ Support Webhook settings (automatically push to you after collecting data)  
-★ Support exporting data as .json, .csv, .xls, xml files (unlimited times, unlimited size)
+★ Support exporting data as .xls, .csv, .json, xml files (unlimited size)
 
-**What is DatePicker?**
+**What is Tapicker?**
 
-A web data collector, extractor, collector, a web crawler.
+A web data collector, extractor, collector, a web crawler. New name for DataPicker.
 
 **Which websites can Tapicker crawl?**
 
