@@ -1,6 +1,6 @@
 {
   "name": "tapicker-docs",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Tapicker's Documentation",
   "scripts": {
     "dev": "next -p 3005",
