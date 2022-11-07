@@ -7,8 +7,8 @@ import Image from "@/components/Image";
 
 Tapicker 已经上架到谷歌和微软应用商店并通过审核，安全可靠，您可以直接在应用商店里一键安装：
 
-- 在 Chrome 浏览器安装: [Chrome Webstore](https://chrome.google.com/webstore/detail/tapicker-powerful-web-d/baglkjackdnhdpjjcjpkhmemggiklhid)
-- 在 Edge 浏览器安装: [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tapicker-powerful-web/ejmegoaahjcedhklldmdmmgbjoioifje)
+- 在 Chrome 浏览器安装: [Chrome Webstore](https://chrome.google.com/webstore/detail/tapicker/baglkjackdnhdpjjcjpkhmemggiklhid)
+- 在 Edge 浏览器安装: [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tapicker/ejmegoaahjcedhklldmdmmgbjoioifje)
 
 <Callout emoji="💡">
 Chrome Webstore 需要能访问外网，若您没有梯子，推荐到这里来安装：[Crx搜搜](https://www.crxsoso.com/webstore/detail/baglkjackdnhdpjjcjpkhmemggiklhid)
@@ -23,7 +23,7 @@ Chrome Webstore 需要能访问外网，若您没有梯子，推荐到这里来�
 1. 点击「DataPicker」图标
 2. 点击「注册」按钮
 
-<Image src="/screenshots/register.png" alt="register" width="50%" height="50%"/>
+<Image src="/screenshots/register.png" alt="register" />
 
 <Callout emoji="💡">
 如果您找不到 Tapicker 图标，请点击浏览器上的 `扩展程序` 的图标，然后把 Tapicker 钉住即可。

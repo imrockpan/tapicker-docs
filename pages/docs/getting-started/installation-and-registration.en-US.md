@@ -19,7 +19,7 @@ If you have successfully installed the extension, you can go to the official web
 1. Click the "Tapicker" icon
 2. Click the "Sign Up" button
 
-<Image src="/screenshots/register.png" alt="register" width="50%" height="50%" />
+<Image src="/screenshots/register.png" alt="register" />
 
 <Callout emoji="💡">
 If you can't find the Tapicker icon, click the "Extensions" icon on your browser and pin the Tapicker extension.
