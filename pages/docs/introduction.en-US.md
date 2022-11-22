@@ -52,7 +52,7 @@ Almost any website that can be opened in your browser
 
 Tapicker is still very young, if you find any problems, please give us feedback in time ~
 
-- Github: https://github.com/ibyetool/tapicker-bugs/issues
+- Github: https://github.com/ibyetool/tapicker-docs/issues
 - Email: support@tapicker.com
 - TG Group: https://t.me/+x8YG9CreBzZmYTZl
 - QQ Group: 690680164
