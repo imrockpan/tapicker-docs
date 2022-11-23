@@ -52,7 +52,7 @@ OMG~不敢相信，采集数据能如此简单！
 
 Tapicker 还很年轻，如果您发现任何问题，请及时给我们反馈哦~
 
-- Github: https://github.com/ibyetool/tapicker-bugs/issues
+- Github: https://github.com/ibyetool/tapicker-docs/issues
 - Email: support@tapicker.com
 - TG 群: https://t.me/+x8YG9CreBzZmYTZl
 - QQ 群: 690680164

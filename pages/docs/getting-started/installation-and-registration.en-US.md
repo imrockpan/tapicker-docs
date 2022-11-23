@@ -7,8 +7,8 @@ import Image from "@/components/Image";
 
 DataPicker has been released to the Google and Microsoft app stores and has passed the review. It is safe and reliable. You can install it directly in the app store with one click:
 
-- Install in Chrome browser: [Chrome Webstore](https://chrome.google.com/webstore/detail/tapicker-powerful-web-d/baglkjackdnhdpjjcjpkhmemggiklhid)
-- Install in Edge browser: [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tapicker-powerful-web/ejmegoaahjcedhklldmdmmgbjoioifje)
+- Install in Chrome browser: [Chrome Webstore](https://chrome.google.com/webstore/detail/tapicker/baglkjackdnhdpjjcjpkhmemggiklhid)
+- Install in Edge browser: [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tapicker/ejmegoaahjcedhklldmdmmgbjoioifje)
 
 Inconsistent review times across app stores can result in different releases across browsers. Usually the version review speed on Chrome is faster, it is recommended that you install the latest version.
 
@@ -19,7 +19,7 @@ If you have successfully installed the extension, you can go to the official web
 1. Click the "Tapicker" icon
 2. Click the "Sign Up" button
 
-<Image src="/screenshots/register.png" alt="register" width="50%" height="50%" />
+<Image src="/screenshots/register.png" alt="register" />
 
 <Callout emoji="💡">
 If you can't find the Tapicker icon, click the "Extensions" icon on your browser and pin the Tapicker extension.
