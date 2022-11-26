@@ -26,14 +26,14 @@ export default {
       <>
         <img
           className="hidden logo-white"
-          src="/images/logo-white.svg"
+          src="/images/logo-white.svg?v=3.0.0"
           width="156"
           height="32"
           alt="logo"
         />
         <img
           className="hidden logo-primary"
-          src="/images/logo-primary.svg"
+          src="/images/logo-primary.svg?v=3.0.0"
           width="156"
           height="32"
           alt="logo"
