@@ -1,42 +1,43 @@
 # What is Tapicker?
 
-Tapicker is a professional web data collector that can extract or collect data from any website, and then export the data as Excel or JSON files.
-It's very easy to use and friendly to novices, because you don't have to write any code, you can collect data with just a few clicks.
-
-Tapicker can even simulate human behavior to visit the target website.
-
-OMG~ Can't believe how easy it is to collect data!
+Tapicker is a professional web data scraper that supports scraping data from any page without any code, and then export the data as Excel, CSV or JSON files.  
+Tapicker is also a web RPA that allows you to run some automated tasks in the browser.
 
 🎉 New upgrade v3.0 🎉  
-Sign up now for a 1-month free trial ✌️
+Sign up now to get a 1-month Pro plan ✌️
 
-**Key feature highlights:**
+Tapicker is very easy to use and friendly to novices, because you don't have to write any code, you can extract data with just a few clicks.  
+Tapicker can even simulate human behavior to visit the target website.
 
-★ Free public recipes (the number is constantly increasing++)  
-★ Deep scraping (eg scraping search engine results, product listings & product details)  
-★ Batch crawl (support to crawl multiple detail pages and search multiple keywords at the same time)  
-★ Auto-fill forms (e.g. enter text, click elements, check options, etc.)  
-★ Submit form (eg search keywords, login, register, etc.)  
-★ Next page automation (support multiple page turning methods)  
-★ Data deduplication (data that has already been fetched and stored will not be fetched again)  
-★ Data conversion (support to set a series of converters for each column of data to convert data)  
-★ Visual recipe editor (a friendly editor for novices, it doesn't matter if you don't understand the code)  
-★ Support private page data extraction (such as pages that require login to access)  
-★ Support single-page application data extraction (pages developed by React, Vue, Angular, etc.)  
-★ Support Webhook settings (automatically push to you after collecting data)  
-★ Support exporting data as .xls, .csv, .json, xml files (unlimited size)
+**💡 Key feature highlights:**
+
+★ Free Public Recipes (the number is constantly increasing++)  
+★ Deep Scraping (e.g. scraping search engine results, product listings & product details)  
+★ Batch Scraping (support to scrape multiple detail pages and search multiple keywords at the same time)  
+★ Auto-fill Form (e.g. enter text, click elements, check options, etc.)  
+★ Submit Form (e.g. search keywords, login, register, etc.)  
+★ Next Page Automation (support multiple page turning methods)  
+★ Prevent Data Duplication (data that has already been extracted and stored will not be saved again)  
+★ Data Conversion (support to set a series of converters for each column of data to convert data)  
+★ Visual Recipe Editor (a friendly editor for novices)  
+★ Support Private Page (some pages that require login to access)  
+★ Support Single Page Application (pages developed by React, Vue, Angular, etc.)  
+★ Webhooks Support (automatically push to you after scraping data)  
+★ Export Data Support (export as .xls, .xlsx, .csv, .json, .xml files)
 
 **What is Tapicker?**
 
-A web data collector, extractor, collector, a web crawler. New name for DataPicker.
+A web data scraper/collector/extractor, A web RPA, A web crawler, A email finder. New name for DataPicker.
 
 **Which websites can Tapicker crawl?**
 
 Almost any website that can be opened in your browser
 
-☞ Search engine: Google, Bing, Yahoo, Baidu...  
-☞ E-commerce websites: Amazon, JD, Taobao, Shopee, Lazada...  
-☞ Video sites: YouTube, Bilibili...
+☞ Search engine: Google, Bing, Yahoo, Yandex, Baidu, Sogou etc. data scraper  
+☞ E-commerce websites: Amazon, Taobao, Shopee, eBay, Lazada, AliExpress, 1688, Tmall, Shopify, JD etc. data scraper  
+☞ Social sites: Twitter, Facebook, Instagram etc. data scraper  
+☞ Video sites: YouTube, TikTok, Bilibili etc. data scraper  
+☞ More sites: YP(Yellow Pages), LinkedIn etc. data scraper
 
 **What can Tapicker be used for?**
 
@@ -50,7 +51,7 @@ Almost any website that can be opened in your browser
 ☞ Academic research - extract data for machine learning, business strategy research  
 ☞ More interesting...
 
-Tapicker is still very young, if you find any problems, please give us feedback in time ~
+If you encounter any problems during use, please let me know ~
 
 - Github: https://github.com/ibyetool/tapicker-docs/issues
 - Email: support@tapicker.com
